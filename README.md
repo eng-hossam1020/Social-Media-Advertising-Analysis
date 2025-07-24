@@ -43,7 +43,14 @@ The analysis was conducted using Power BI to create interactive dashboards for d
 
 - <b> Campaign Performance Overview:
   
-</b> Shows total clicks, average conversion rate, total acquisition cost, and average ROI.
+</b> Shows Total Clicks by Channel_Used, Total Acquisition Cost by Channel_Used, Average ROI by Channel_Used, Average Conversion Rate By month,Total Clicks, Total Number of Compaigns, Total Acquisition Cost,     , and average ROI.
+
+<img width="1303" height="727" alt="Image" src="https://github.com/user-attachments/assets/d15c968f-220a-45eb-b37d-c63f9ec3c8b0" />
+
+- <b> Target Audience & Location Analysis:
+
+</b> Analyzes Target Audience by Average Conversion Rate, Average ROI, and Average Engagment Score, Total Clicks by Customer Segment, Engagment Score by Compaign_goal,Average Impression by geographic Location
+
 
 
 
